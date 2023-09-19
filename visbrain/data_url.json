@@ -1,0 +1,68 @@
+{
+    "templates": {
+        "B1.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/templates/B1.npz",
+        "B2.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/templates/B2.npz",
+        "B3.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/templates/B3.npz",
+        "inflated.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/templates/inflated.npz",
+        "sphere.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/templates/sphere.npz",
+        "white.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/templates/white.npz",
+        "sulcus.npy": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/templates/sulcus.npy"
+    },
+    "roi": {
+        "aal.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/roi/aal.npz",
+        "brodmann.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/roi/brodmann.npz",
+        "talairach.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/roi/talairach.npz",
+        "mist.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/roi/mist.zip"
+    },
+    "topo": {
+        "eegref.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/topo/eegref.npz"
+    },
+    "icons": {
+        "brain_icon.svg": "https://nextcloud.wyplay.xyz/remote.php/dav/files/wangyin6am/Sleep_app/icons/brain_icon.svg",
+        "colorbar_icon.svg": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/icons/colorbar_icon.svg?downloadStartSecret=8be5jlka96i",
+        "figure_icon.svg": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/icons/figure_icon.svg?downloadStartSecret=6wa3tey4zy",
+        "sleep_icon.svg": "https://nextcloud.wyplay.xyz/remote.php/dav/files/wangyin6am/Sleep_app/icons/sleep_icon.svg",
+        "topo_icon.svg": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/icons/topo_icon.svg?downloadStartSecret=r7rjx8d35mi"
+    },
+    "example_data": {
+        "xyz_sample.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/xyz_sample.npz",
+        "phase_sync_delta.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/phase_sync_delta.npz",
+        "thalamus.txt": "https://nextcloud.wyplay.xyz/remote.php/dav/files/wangyin6am/Sleep_app/example_data/thalamus.txt",
+        "Px.npy": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/Px.npy",
+        "meg_source_estimate-lh.stc": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/meg_source_estimate-lh.stc",
+        "meg_source_estimate-rh.stc": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/meg_source_estimate-rh.stc",
+        "lh.sig.nii.gz": "https://nextcloud.wyplay.xyz/index.php/apps/files/ajax/download.php?dir=%2FSleep_app%2Fexample_data&files=lh.sig.nii.gz&downloadStartSecret=95933vcecbm",
+        "lh.alt_sig.nii.gz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/lh.alt_sig.nii.gz",
+        "figure.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/figure.zip",
+        "lh.aparc.a2009s.annot": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/lh.aparc.a2009s.annot",
+        "rh.aparc.a2009s.annot": "https://nextcloud.wyplay.xyz/index.php/apps/files/ajax/download.php?dir=%2FSleep_app%2Fexample_data&files=rh.aparc.a2009s.annot&downloadStartSecret=avhhku7wcah",
+        "lh.PALS_B12_Brodmann.annot": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/lh.PALS_B12_Brodmann.annot",
+        "rh.PALS_B12_Brodmann.annot": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/rh.PALS_B12_Brodmann.annot",
+        "lh.aparc.annot": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/lh.aparc.annot",
+        "rh.aparc.annot": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/rh.aparc.annot",
+        "brain_config.txt": "https://nextcloud.wyplay.xyz/remote.php/dav/files/wangyin6am/Sleep_app/example_data/brain_config.txt",
+        "cbar_config.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/cbar_config.zip",
+        "GG-853-GM-0.7mm.nii.gz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/GG-853-GM-0.7mm.nii.gz",
+        "GG-853-WM-0.7mm.nii.gz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/GG-853-WM-0.7mm.nii.gz",
+        "Custom.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/Custom.npz",
+        "sleep_rec.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/sleep_rec.zip",
+        "sleep_edf.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/sleep_edf.zip",
+        "sleep_brainvision.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/sleep_brainvision.zip",
+        "sleep_elan.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/sleep_elan.zip",
+        "sleep_matlab.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/sleep_matlab.zip",
+        "topoplot_data.npz": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/topoplot_data.npz",
+        "MIST_ROI.zip": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/MIST_ROI.zip",
+        "s101_jbe.hyp": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/s101_jbe.hyp",
+        "ferret.x3d": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/ferret.x3d",
+        "macaque_1.x3d": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/macaque_1.x3d",
+        "macaque_2.x3d": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/macaque_2.x3d",
+        "mouse.x3d": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/mouse.x3d",
+        "rat.x3d": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/rat.x3d",
+        "human.x3d": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/human.x3d",
+        "brain.obj": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/brain.obj",
+        "lh.bert.inflated.gii": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/lh.bert.inflated.gii",
+        "lh.bert.thickness.gii": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/lh.bert.thickness.gii",
+        "lh.inflated": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/lh.inflated",
+        "rh.inflated": "https://nextcloud.wyplay.xyz/remote.php/webdav/Sleep_app/example_data/rh.inflated"
+    }
+}
